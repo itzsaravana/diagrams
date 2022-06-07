@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T03:18:48.527Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="MriEyo-s1yjWHy36LyXN" version="17.2.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-06-07T03:26:44.442Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="1ylKLjh4JznEc_LgQZm6" version="17.2.5" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="955" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -251,10 +251,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XQmNA29ntWBKvpPjWXHl-1" value="Amazon S3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#F58534;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
-          <mxGeometry x="360" y="370" width="80" height="100" as="geometry" />
+          <mxGeometry x="280" y="385" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="XQmNA29ntWBKvpPjWXHl-3" value="Amazon Athena" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#F58534;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.athena;" vertex="1" parent="1">
-          <mxGeometry x="480" y="370" width="80" height="110" as="geometry" />
+          <mxGeometry x="400" y="380" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="XQmNA29ntWBKvpPjWXHl-4" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#232F3E;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="1">
           <mxGeometry x="360" y="60" width="60" height="63" as="geometry" />
@@ -266,10 +266,16 @@
           <mxGeometry x="500" y="250" width="60" height="63" as="geometry" />
         </mxCell>
         <mxCell id="XQmNA29ntWBKvpPjWXHl-10" value="Amazon Kinesis" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#F58534;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.kinesis;" vertex="1" parent="1">
-          <mxGeometry x="230" y="380" width="80" height="110" as="geometry" />
+          <mxGeometry x="150" y="380" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="XQmNA29ntWBKvpPjWXHl-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/Python_logo-128.png;fillColor=#F58534;" vertex="1" parent="1">
           <mxGeometry x="360" y="170" width="63" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="XQmNA29ntWBKvpPjWXHl-16" value="&lt;h1 style=&quot;line-height: 0.9 ; font-size: 14px&quot;&gt;EBI API&#39;s&lt;/h1&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;There are 7 API&#39;s in EBI neXus&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="440" y="46.5" width="350" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XQmNA29ntWBKvpPjWXHl-17" value="AWS Lambda" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#F58534;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" vertex="1" parent="1">
+          <mxGeometry x="520" y="380" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
